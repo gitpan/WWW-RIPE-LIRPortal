@@ -1,0 +1,7 @@
+^_build
+^META.yml$
+^Build$
+CVS
+^MANIFEST.bak$
+^blib
+tar.gz$
